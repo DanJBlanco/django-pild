@@ -3,6 +3,8 @@
 import os
 import sys
 
+import logging
+
 
 def main():
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'pildoras_p1.settings')

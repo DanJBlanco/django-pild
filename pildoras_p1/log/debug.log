@@ -1,0 +1,9 @@
+2019-12-10 23:38:19,623 [WARNING] django.request: Not Found: /favicon.ico
+2019-12-10 23:41:49,559 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2019-12-10 23:41:52,632 [INFO] pildoras_p1.view: Exit - calculaEdad: 
+2019-12-10 23:42:28,165 [INFO] django.utils.autoreload: E:\Cursos\django-pild\pildoras_p1\pildoras_p1\settings.py changed, reloading.
+2019-12-10 23:42:28,166 [DEBUG] asyncio: Using proactor: IocpProactor
+2019-12-10 23:42:30,846 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2019-12-10 23:42:31,419 [INFO] pildoras_p1.view: Exit - calculaEdad: 
+2019-12-10 23:42:33,702 [INFO] pildoras_p1.view: Exit - calculaEdad: 
+2019-12-10 23:54:30,360 [DEBUG] asyncio: Using proactor: IocpProactor
